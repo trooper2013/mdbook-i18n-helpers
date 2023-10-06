@@ -1,4 +1,4 @@
-name: GitHub Actions Demo
+name: GitHub Action for mdbook-i18n-helpers
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 on: [push]
 jobs:
